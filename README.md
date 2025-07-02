@@ -1,6 +1,6 @@
 # Image Resizer
 
-&nbsp;이미지를 올린 후 사이즈를 변경하여 다운로드할 수 있는 간단한 윈도우 GUI 프로그램입니다.
+&nbsp;이미지를 올린 후 사이즈를 변경하여 다운로드할 수 있는 간단한 윈도우 GUI 프로그램입니다. <br>
 &nbsp;Python 기반으로, CustomTkinter와 Pillow를 사용하여 제작되었습니다.
 
 <br>
